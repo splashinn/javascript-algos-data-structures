@@ -1,5 +1,5 @@
 // binary search
-// Copyright (C) 2014 Kyle Maune
+// splashinn
 
 'use strict';
 
