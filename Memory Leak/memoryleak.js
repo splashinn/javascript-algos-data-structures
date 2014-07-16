@@ -1,5 +1,5 @@
 // memoryleak.js
-// (C) 2014 Kyle Maune
+// splashinn
 // checks for memory leaks in data structs
 
 MemoryLeak = {
