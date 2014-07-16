@@ -1,4 +1,4 @@
-/** Copyright (C) Kyle Maune 2014 **/
+// splashinn
 
 'use strict';
 var Comparator = require('../../util/comparator');
