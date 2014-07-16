@@ -1,5 +1,5 @@
 // allanagrams.js
-// (C) 2014 splashinn
+// splashinn
 
 function allanagrams (word) {
   if (word.length < 2) {
