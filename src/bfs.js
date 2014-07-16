@@ -1,5 +1,5 @@
 // Breadth-first search for binary tree
-// Copyright (C) 2014 Kyle Maune
+// splashinn
 
 'use strict';
 
