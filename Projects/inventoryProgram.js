@@ -1,5 +1,5 @@
 // inventoryProgram.js
-// (C) 2014 splashinn
+// splashinn
 // Manages an inventory of products
 
 (function () {
