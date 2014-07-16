@@ -1,5 +1,5 @@
 // balancedbinarytree.js
-// (C) 2014 kmaune0
+// splashinn
 
 var BST = function(value) {
   this.value = value;
