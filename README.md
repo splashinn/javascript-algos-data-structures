@@ -1,8 +1,9 @@
-javascript-algos-data-structures
-================================
+# JavaScript Algorithms and Data Structures
 
-Algorithms and data structures implemented in JavaScript
+## This repository contains:
 
-Also includes various other small projects
+- Algorithms and data structures implemented in JavaScript
 
-Feel free to add to this repository.
+- Also includes various other small projects
+
+- Feel free to add to this repository.
