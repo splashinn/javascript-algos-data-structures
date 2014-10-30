@@ -1,3 +1,6 @@
+// anagramDetection.js
+// splashinn
+
 var primeMap = (function () {
   var map = {};
 
