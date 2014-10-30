@@ -1,3 +1,6 @@
+// hotelRoom.js
+// splashinn
+
 module.exports = function (totalRooms) {
   var findDivisors = function (number) {
     var divisors = [],
