@@ -1,3 +1,6 @@
+// flattenArray.js
+// splashinn
+
 // Create a new flattened array
 exports.newArray = function flatten (input) {
   var output = [];
