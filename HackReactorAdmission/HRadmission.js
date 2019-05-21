@@ -1,5 +1,5 @@
 var myArray = [];
-myArray = ["Kyle Maune", "kmaune71@gmail.com"];
+myArray = ["Kyle Maune", "the.kyle.maune@gmail.com"];
 
 function cutName (name){
   var splitName = [];
@@ -10,6 +10,6 @@ function cutName (name){
 var myData = { };
 myData.fullName = cutName(myArray[0]);
 myData.skype = myArray[1];
-myData.github = "kmaune0";
+myData.github = "splashinn";
 
 HackReactor.showApp();
